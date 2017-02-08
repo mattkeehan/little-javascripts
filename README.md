@@ -1,6 +1,6 @@
 **Helpful JavaScripts** 
 
-Nothing fancy. Each one should be an IIFE, using plain JavaScript.
+Nothing fancy. Each one should be a standalone, using plain JavaScript.
 
 * Expanding background
 
